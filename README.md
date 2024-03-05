@@ -1,5 +1,5 @@
 # Facial-Recognition-Based-Attendance-System
-**人脸识别考勤系统              **
+**人脸识别考勤系统**
 
 **技术栈： C++、QT、Socket、SQLite数据库、ARM嵌入式**
 
